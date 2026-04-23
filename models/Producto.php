@@ -1,8 +1,5 @@
 <?php
-/**
- * models/Producto.php
- * MODELO – Manejo de datos de productos (acceso a BD)
- */
+// Modelo Producto - acceso a datos con PDO y control de stock
 
 class Producto {
     private PDO $db;
