@@ -1,8 +1,5 @@
 <?php
-/**
- * controllers/ProductoController.php
- * CONTROLADOR – Lógica de negocio para productos
- */
+// Controlador de Productos - maneja registro, listado y eliminación 
 
 class ProductoController {
     private Producto $model;
