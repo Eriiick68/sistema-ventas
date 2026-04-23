@@ -1,4 +1,5 @@
 <?php
+//Vista principal de productos con Bootstrap 
 $pageTitle = 'Productos – Sistema de Ventas';
 require 'views/layout/header.php';
 ?>
